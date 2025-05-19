@@ -1,0 +1,4 @@
+baseURL = "https://github.com/lzfkn/cv.github.io.git/"
+languageCode = "en-us"
+title = "liza fokina CV"
+theme = "smol"
